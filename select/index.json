@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "捨て犬",
+  "base_artist": "ENEMY FLECK",
+  "createdAt": "2026-02-23T16:04:16.190601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "捨て犬",
+      "artist": "ENEMY FLECK",
+      "has_synced": false,
+      "path": "select/pl_01_捨て犬_ENEMY_FLECK.txt"
+    }
+  ]
+}
